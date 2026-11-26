@@ -22,10 +22,6 @@ The dataset was acquired during an indoor experimental session on 26 September 2
 
 The complete experimental dataset is provided as SupplementaryMaterial_S1.zip under Release v1.0.0.
 
-## Citation
-
-Users of this dataset are requested to cite the associated research article and the corresponding dataset release.
-
 ## Author
 
 Hamza Sohail
